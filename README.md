@@ -4,24 +4,24 @@ A simple console-based banking system developed in Java to demonstrate basic ban
 
 Features:
 
-. Deposit Money: Add funds to a checking account.
-. Withdraw Money: Withdraw funds if the available balance is sufficient.
-. Custom Exception Handling: Uses InsufficientFundsException to handle withdrawals that exceed the account balance.
-. Balance Management: Tracks the account balance and account number.
-. User Input: Uses Java's Scanner class to accept deposit and withdrawal amounts.
+Deposit Money: Add funds to a checking account.
+Withdraw Money: Withdraw funds if the available balance is sufficient.
+Custom Exception Handling: Uses InsufficientFundsException to handle withdrawals that exceed the account balance.
+Balance Management: Tracks the account balance and account number.
+User Input: Uses Java's Scanner class to accept deposit and withdrawal amounts.
 
 Technologies Used: 
 
-. Java
-. Object-Oriented Programming (OOP)
-. Custom Exception Handling
-. Java Scanner Class
+Java
+Object-Oriented Programming (OOP)
+Custom Exception Handling
+Java Scanner Class
 
 Project Files:
 
-. BankDemo.java — Main class that runs the banking program and accepts user input.
-. CheckingAccount.java — Manages account details, deposits, withdrawals, and balance.
-. InsufficientFundsException.java — Custom exception class for handling insufficient funds.
+BankDemo.java — Main class that runs the banking program and accepts user input.
+CheckingAccount.java — Manages account details, deposits, withdrawals, and balance.
+InsufficientFundsException.java — Custom exception class for handling insufficient funds.
 
 Learning Objectives:
 
